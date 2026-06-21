@@ -80,7 +80,7 @@ You'll be prompted for a target hostname or IP. Press Enter to default to
 [16:37:57] Scan complete. No common ports were open.
 ```
 
-## Banner Grabbing (Optional)
+## Banner Grabbing
 
 After a port is confirmed open, the tool can optionally attempt to read the
 **banner** the service sends back — the short message many services use to
